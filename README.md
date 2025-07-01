@@ -6,7 +6,7 @@ Projeto de lista de tarefas simples usando HTML, CSS e JavaScript.
 - Adicionar tarefas
 - Marcar tarefas como concluídas
 - Excluir tarefas
-- Salvar tarefas no navegador (localStorage)
+- Salvar tarefas no navegador
 
 ## 🚀 Como rodar
 1. Baixe os arquivos.
