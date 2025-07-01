@@ -13,7 +13,7 @@ Projeto de lista de tarefas simples usando HTML, CSS e JavaScript.
 2. Abra `index.html` no navegador.
 
 ## 🔗 Demo
-
+https://luteciando.github.io/todo-list/
 
 ---
 
